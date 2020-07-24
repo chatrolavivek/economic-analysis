@@ -1,0 +1,5 @@
+# economic-analysis
+Group Project for BLDG-6561 Building Economics I course 
+
+
+The main objective of this project is to study and utilize the variable investments available in the commercial sector. This project also tries to study, analyze, determine and justify the investments made in the commercial sector by studying several alternatives available in the commercial sector and to determine whether investing in any one of them is profitable or not. This project is also trying to justify the investments made by doing several feasibility studies and analyses such as Present Worth Analysis and Equivalent Uniform Annual Worth Analysis. Four Investments or Alternatives were selected and finalized. These four alternatives are in different parts of Montreal City. This project has an analysis period of 20 Years. During the process of calculations, quite a few assumptions were made, and the calculations were determined based on these assumptions. All these calculations are shown in the report.
